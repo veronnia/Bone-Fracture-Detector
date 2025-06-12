@@ -1,1 +1,2 @@
 # Bone-Fracture-Detector
+This project uses computer vision to detect whether a bone X-ray shows a fracture or not. It works by extracting key features from the images using SIFT, then representing them with a Bag of Words model, and finally classifying them with a machine learning algorithm. Built with Python, it relies on libraries like OpenCV, NumPy, os, and scikit-learn. It's a simple and effective approach to applying traditional vision techniques in medical image analysis.
